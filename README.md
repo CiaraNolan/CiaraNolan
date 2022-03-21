@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, baking and all things learning and development!
 - 🌱 I’m currently learning how the rnd team function 
 - 💞️ I’m looking to collaborate on rnd and learning projects 
-- 📫 How to reach me @Cici on slack!
+- 📫 How to reach me @Ciara on slack!
 
 <!---
 CiaraNolan/CiaraNolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
